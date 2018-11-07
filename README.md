@@ -5,8 +5,8 @@
 
 Follows the syntax directly without compiling.
 
-* Python (learning)
-* Ruby (learning)
+* Python *(In Progress)*
+* Ruby *(In Progress)*
 
 ## Functional Programming Languages
 
@@ -25,7 +25,21 @@ Implementations are compilers and not interpreters.
 
 ## Procedural Programming Languages
 
+Steps to reach intended state. Structured and traceable program flow.
 
+* MATLAB **(Want to learn)**
+
+## Scripting Languages
+
+Languages that control an application. Automate tasks that are independent of other application.
+
+* PHP *(In Progress)*
+
+## Markup Languages
+
+Annotation to text show how text is displayed.
+
+* HTML *(In Progress)*
 
 ## Correlation
 [Site](https://www.stackoverflowbusiness.com/blog/the-difference-between-programming-frameworks-and-languages)
