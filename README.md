@@ -51,6 +51,24 @@ Technique that executes operations concurrently within a computer
 "Objects" that will contain data: forms and procedures that are known as attributes and methods. 
 * Ruby *(Above)*
 
+# Libraries
+
+Reusable codes that has several functions, objects and methods. Application has to "link" to library to use functionality.
+* jQuery
+* Underscore and Lodash
+* D3.js **(Want to learn)**
+* React *(In progress)*
+* Glimmer
+
+# Frameworks
+
+Helps direct on architecture and projects. Contains multiple libraries and provide hooks and callbacks. 
+* Bootstrap **(Want to learn)**
+* Angular and AngularJS **(Want to learn)**
+* Ember.js
+* Aurelia
+* Vue.js **(Want to learn)**
+
 ## Correlation
 [Site](https://www.stackoverflowbusiness.com/blog/the-difference-between-programming-frameworks-and-languages)
 ![Technologies](https://www.stackoverflowbusiness.com/hs-fs/hubfs/correlated%20programming%20technologies.png?t=1541504671267&width=1280&name=correlated%20programming%20technologies.png)
