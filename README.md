@@ -5,23 +5,23 @@
 
 Follows the syntax directly without compiling.
 
-* Python
-* Ruby
+* Python (learning)
+* Ruby (learning)
 
 ## Functional Programming Languages
 
 Focuses on application of functions.
 
-* 
+* **None at the moment**
 
 ## Compiled Programming Languages
 
 Implementations are compilers and not interpreters.
 
-* C
-* C++ 
-* C# 
-* Java
+* C **(Want to learn)**
+* C++ **(Want to learn)**
+* C# **(Want to learn)**
+* Java **(Want to learn)**
 
 ## Procedural Programming Languages
 
