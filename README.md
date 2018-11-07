@@ -5,7 +5,7 @@
 
 Follows the syntax directly without compiling.
 * Python *(In Progress)*
-* Ruby *(In Progress)*
+* JavaScript *(In Progress)*
 
 ## Functional Programming Languages
 
@@ -23,7 +23,8 @@ Implementations are compilers and not interpreters.
 ## Procedural Programming Languages
 
 Steps to reach intended state. Structured and traceable program flow.
-* MATLAB **(Want to learn)**
+* MATLAB 
+* SQL
 
 ## Scripting Languages
 
@@ -49,7 +50,7 @@ Technique that executes operations concurrently within a computer
 ## Object-Oriented Programming Languages
 
 "Objects" that will contain data: forms and procedures that are known as attributes and methods. 
-* Ruby *(Above)*
+* Ruby *(In Progress)*
 
 # Libraries
 
@@ -62,13 +63,31 @@ Reusable codes that has several functions, objects and methods. Application has 
 
 # Frameworks
 
-Helps direct on architecture and projects. Contains multiple libraries and provide hooks and callbacks. 
+Helps direct on architecture and projects. Contains multiple libraries and provide hooks and callbacks. Has more control.
 * Bootstrap **(Want to learn)**
 * Angular and AngularJS **(Want to learn)**
-* Ember.js
-* Aurelia
-* Vue.js **(Want to learn)**
+* Ember.js **(Want to learn - similar to RoR)**
+* Aurelia **(Want to Learn - newer, similar to React, Angular)**
+* Vue.js **(Want to learn - Mix & match Vue into projects)**
+* .NET 
 
-## Correlation
+# Correlation
 [Site](https://www.stackoverflowbusiness.com/blog/the-difference-between-programming-frameworks-and-languages)
 ![Technologies](https://www.stackoverflowbusiness.com/hs-fs/hubfs/correlated%20programming%20technologies.png?t=1541504671267&width=1280&name=correlated%20programming%20technologies.png)
+
+## Integrated Development Environment
+* Visual Studio Code *(In progress)*
+
+## Languages
+* SQL *(In progress)*
+
+## Relational Database Systems
+* PostgreSQL *(In progress)*
+* MySQL
+
+## noSQL Database Systems
+* MongoDB
+
+## Authentication
+* Jwt-token
+* OAuth 
