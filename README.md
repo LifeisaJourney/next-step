@@ -24,7 +24,7 @@ Implementations are compilers and not interpreters.
 
 Steps to reach intended state. Structured and traceable program flow.
 * MATLAB 
-* SQL
+* SQL *(In Progress)*
 
 ## Scripting Languages
 
@@ -68,7 +68,7 @@ Helps direct on architecture and projects. Contains multiple libraries and provi
 * Angular and AngularJS **(Want to learn)**
 * Ember.js **(Want to learn - similar to RoR)**
 * Aurelia **(Want to Learn - newer, similar to React, Angular)**
-* Vue.js **(Want to learn - Mix & match Vue into projects)**
+* Vue.js *(In Progress)*
 * .NET 
 
 # Correlation
